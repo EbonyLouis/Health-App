@@ -3,14 +3,11 @@
 * **Project Title: FOOD, FITNESS, FUN, LETS SHARE**
   - This app allows the user to be able to create an account. Once an account is created the user will have access to a healthy lifestyle forum. Where they can read tips from other members, as well as contribute their own.
 
-* **Image of Login Page**
-![](public/login.png)
-
 * **Image of SignUp Page**
-![](public/signup.png)
+![](public/img/signup.png)
 
 * **Image of Tips Page**
-![](public/forum2.png)
+![](public/img/forum2.png)
 
 ## How It's Made:
 
