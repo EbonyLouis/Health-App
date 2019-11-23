@@ -11,7 +11,7 @@
 
 ## How It's Made:
 
-**Tech Used:** HTML5, CSS3, API's, Javascript, Node.js, mongoDB, Express framework
+**Tech Used:** HTML5, CSS3, APIs, Javascript, Node.js, mongoDB, Express framework
 
 
 ## Installation:
